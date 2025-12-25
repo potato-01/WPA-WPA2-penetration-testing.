@@ -7,8 +7,7 @@ All wordlists originate from **Weakpass**:
 ---
 
 
-
-## 🔐 Weakpass WPA / Password Mega Wordlists (Torrent Collection)
+## 🔐 Weakpass WPA / Password Mega Wordlists
 
 This repository indexes and shares **very large, high-quality password wordlists** sourced from **Weakpass**, intended for **security research, password auditing, and WPA/WPA2 penetration testing**.
 
