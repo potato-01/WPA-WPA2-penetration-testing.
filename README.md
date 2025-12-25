@@ -1,13 +1,5 @@
-# WPA-WPA2-penetration-testing.
-When cracking WPA/WPA2 Wi-Fi networks with tools like Aircrack-ng, Hashcat, or John the Ripper, using extensive wordlists is key. Below is a collection of publicly downloadable password lists (≥200 MB) suited for Wi-Fi penetration testing.
-
-Here’s a **clean, GitHub-ready README title and description** you can copy directly.
-
----
 
 ## 🔐 Weakpass WPA / Password Mega Wordlists (Torrent Collection)
-
-### 📖 Description
 
 This repository indexes and shares **very large, high-quality password wordlists** sourced from **Weakpass**, intended for **security research, password auditing, and WPA/WPA2 penetration testing**.
 
@@ -45,22 +37,3 @@ All wordlists originate from **Weakpass**:
 👉 [https://weakpass.com/weakpass](https://weakpass.com/weakpass)
 
 This repository **does not claim ownership** of the data and exists only to **organize and reference** these collections for easier access via torrents.
-
----
-
-### 🧠 Recommended Usage
-
-* Start with **policy** or **latin** lists for efficiency
-* Use **merged / 4a lists** only with strong hardware
-* Combine with **rules & masks** for best WPA cracking results
-
----
-
-If you want, I can also:
-
-* ✨ Rewrite this in a **more professional / corporate tone**
-* 🧪 Add a **Hashcat WPA usage example**
-* 📜 Add a **LICENSE + disclaimer section**
-* ⭐ Optimize it for **GitHub SEO & stars**
-
-Just tell me.
