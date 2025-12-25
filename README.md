@@ -21,23 +21,4 @@ The lists include **billions of real-world passwords**, compiled from public dat
 
 ---
 
-### 📦 Included Wordlists
-
-| Name                     | Rate | Size     | Password Count | Distribution |
-| ------------------------ | ---- | -------- | -------------- | ------------ |
-| `weakpass_4.txt`         | S    | 22.46 GB | 2.19 B         | Torrent      |
-| `weakpass_4a.txt`        | S    | 81.37 GB | 8.44 B         | Torrent      |
-| `weakpass_4a.latin.txt`  | S    | 79.43 GB | 8.28 B         | Torrent      |
-| `weakpass_4.merged.txt`  | S    | 37.72 GB | 3.58 B         | Torrent      |
-| `weakpass_4.latin.txt`   | S    | 22.03 GB | 2.16 B         | Torrent      |
-| `weakpass_4a.policy.txt` | E    | 19.17 GB | 1.74 B         | Torrent      |
-| `weakpass_4.policy.txt`  | E    | 3.47 GB  | 320.18 M       | Torrent      |
-
-**Rate legend**
-
-* **S** = Standard (raw, very large, unfiltered)
-* **E** = Enhanced / Policy-filtered (optimized, cleaner sets)
-
----
-
 This repository **does not claim ownership** of the data and exists only to **organize and reference** these collections for easier access via torrents.
